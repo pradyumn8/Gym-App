@@ -15,7 +15,6 @@ This project demonstrates a full-stack application that utilizes the **MERN** st
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Features
@@ -45,19 +44,24 @@ This project demonstrates a full-stack application that utilizes the **MERN** st
 - **Zod**: For schema validation and data parsing.
 
 ## Installation
-
-1. Clone the repository:  
+### Clone the repository:
    ```bash
    git clone https://github.com/pradyumn8/Gym-App.git
    ```
-   - Navigate to the project directory: `cd Gym-App`
-   - 
-- Install dependencies for both the backend and frontend: `npm install`
-- 
+  ## Navigate into the project directory
+   ```bash
+   cd Gym-App
+   ```
+## npm install
+   ```bash
+   npm install
+   ```
 ## Usage
-
-- Start the backend server: `npm start` in the backend directory.
-- Run the frontend: `npm run dev` in the frontend directory.
+### To start the application, run the following command:
+ ```bash
+ npm run dev
+ ```
+#### Visit http://localhost:5153 in your browser.
 
 ## Contributing
 
